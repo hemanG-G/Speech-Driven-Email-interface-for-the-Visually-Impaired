@@ -7,6 +7,7 @@
 <p align="justify">
 So, we proposed a Voice-based Email System using AI that will make the email system very easily accessible to visually challenged people and also help society. Accessibility is the most important feature that is considered while developing this system. </p><br/>
 
+---
 
 Visual impairment, also known as vision impairment or vision loss, is a decreased ability to see to a degree that causes problems not fixable by usual means, such as glasses.
 
