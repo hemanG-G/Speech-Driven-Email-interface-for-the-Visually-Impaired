@@ -1,7 +1,6 @@
 # Voice-based-Email-System-for-the-visually-impaired
 
 
-  ![featured_hu0bf6f95dd473a1cc14fb20f1bbb6075e_22286_04f3ebb9795aae6f72c50478b2912e9f](https://github.com/user-attachments/assets/c7422ff0-570f-4696-be5c-12bd2bceed66)
 
 
 Visual impairment, also known as vision impairment or vision loss, is a decreased ability to see to a degree that causes problems not fixable by usual means, such as glasses.
